@@ -1,0 +1,72 @@
+VIM Network Resource License v1.0
+====================================
+
+Copyright (c) 2026 VIM Network. All rights reserved.
+https://vim-network.org
+
+This license applies to the software in this repository (the "Resource"),
+including all source code, configuration, documentation, and assets.
+
+
+1. PERMISSION (LIMITED)
+
+You may download, view, and run the Resource ONLY:
+
+  (a) on a game server that you own or operate; and
+  (b) for your server's own join-check and staff-alert use with VIM Network;
+  (c) while complying with all terms below.
+
+Viewing this public repository does NOT grant any other rights.
+
+
+2. PROHIBITED USES
+
+You may NOT, without prior written permission from VIM Network:
+
+  (a) sell, sublicense, lease, or charge for the Resource or access to it;
+  (b) redistribute, republish, mirror, or share the Resource (source, builds,
+      or zips) on GitHub, forums, Discord, Tebex, or any other channel;
+  (c) rebrand, repackage, or pass the Resource off as your own work;
+  (d) remove or alter copyright notices, attribution, or license text;
+  (e) use the Resource (or any substantial part of it) to build, operate, or
+      support a competing player directory, blacklist, trust network, or
+      similar service or website;
+  (f) reverse-engineer the Resource solely to clone its behaviour for a
+      competing product;
+  (g) share API keys, webhooks, or credentials issued for your server with
+      other parties or servers.
+
+
+3. API KEYS AND TRUSTED SERVERS
+
+Join-check API keys are issued per trusted server on vim-network.org. Keys are
+not transferable. Misuse or sharing may result in key revocation without notice.
+
+
+4. MODIFICATIONS
+
+You may edit server-side secrets (for example server/webhooks.lua) and
+reasonable server-local configuration required to run the Resource on your
+server. You may NOT distribute modified versions of the Resource.
+
+
+5. NO WARRANTY
+
+THE RESOURCE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. VIM NETWORK IS NOT LIABLE
+FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY ARISING FROM USE OF THE RESOURCE.
+
+
+6. TERMINATION
+
+This license ends automatically if you breach any term. Upon termination you
+must stop using the Resource and delete all copies in your possession.
+
+
+7. ENFORCEMENT
+
+VIM Network may enforce this license through API revocation, takedown requests,
+and any other remedies available under applicable law.
+
+Questions or permission requests: https://vim-network.org/contact

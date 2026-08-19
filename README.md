@@ -17,3 +17,7 @@
    ```
 
 4. Restart the server or run `ensure vim_network_redm`.
+
+---
+
+© VIM Network. See [LICENSE](LICENSE) — no redistribution, resale, or use in competing services.
